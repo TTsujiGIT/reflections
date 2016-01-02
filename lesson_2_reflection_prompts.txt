@@ -24,5 +24,8 @@ based on what version of the file. This will help to merge two branches together
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+- put all the changes in the two branches together in chronical order. You can still keep track on 
+the commitments made. 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
