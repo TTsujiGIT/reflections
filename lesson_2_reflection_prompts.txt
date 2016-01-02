@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-.git directory is created and build space for a repository 
+- git directory is created and build space for a repository 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
@@ -14,7 +14,12 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+- When you want to test things out and try how a different version works 
+
 How do the diagrams help you visualize the branch structure?
+
+- by looking at the diagrams, you can identify where the branch occured and new features were added
+based on what version of the file. This will help to merge two branches together and combine later
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
